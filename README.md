@@ -6,7 +6,7 @@ This project is a simple website that demonstrates the basic structure of an HTM
 
 ```
 simple-website
-├── src
+├── docs
 │   ├── index.html      # Main HTML document for the website
 │   ├── styles.css      # CSS styles for the website
 │   └── app.js          # JavaScript code for the website

@@ -2,9 +2,9 @@
   "name": "simple-website",
   "version": "1.0.0",
   "description": "A simple website project",
-  "main": "src/app.js",
+  "main": "docs/app.js",
   "scripts": {
-    "start": "live-server src"
+    "start": "live-server docs"
   },
   "keywords": [
     "website",
