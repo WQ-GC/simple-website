@@ -1,0 +1,22 @@
+{
+  "name": "simple-website",
+  "version": "1.0.0",
+  "description": "A simple website project",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "keywords": [
+    "website",
+    "simple",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
