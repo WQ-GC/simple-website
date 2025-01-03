@@ -9,7 +9,15 @@ simple-website
 ├── docs
 │   ├── index.html      # Main HTML document for the website
 │   ├── styles.css      # CSS styles for the website
-│   └── app.js          # JavaScript code for the website
+│   ├── app.js          # JavaScript code for the website
+│   ├── 19003_1.jpg
+│   ├── 19003_2.jpg
+│   ├── 19003_3.jpg
+│   ├── 19003_4.jpg
+│   ├── 19003_5.jpg
+│   ├── 19003_6.jpg
+│   ├── 19003_7.jpg
+│   └── 19003_8.jpg
 ├── package.json        # Configuration file for npm
 └── README.md           # Documentation for the project
 ```
@@ -33,7 +41,7 @@ To get started with this project, follow these steps:
    npm install
    ```
 
-4. Open `src/index.html` in your web browser to view the website.
+4. Open `docs/index.html` in your web browser to view the website.
 
 ## Features
 
