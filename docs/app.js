@@ -2,7 +2,7 @@
 
 document.addEventListener('DOMContentLoaded', () => {
     const greeting = document.getElementById('greeting');
-    greeting.textContent = 'Welcome to My Simple Website!';
+    greeting.textContent = 'GC Basic Website';
 
     const button = document.getElementById('clickMe');
     button.addEventListener('click', () => {

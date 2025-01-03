@@ -1,7 +1,7 @@
 {
   "name": "simple-website",
   "version": "1.0.0",
-  "description": "A simple website project",
+  "description": "A Basic GC Website project",
   "main": "docs/app.js",
   "scripts": {
     "start": "live-server docs"
@@ -13,7 +13,7 @@
     "css",
     "javascript"
   ],
-  "author": "Your Name",
+  "author": "WQ",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
