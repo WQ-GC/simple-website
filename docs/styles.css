@@ -45,8 +45,8 @@ footer {
 }
 
 img {
+    padding: 0px;
     margin: 0;
-    padding: 0;
     display: inline-block;
     vertical-align: top;
 }
